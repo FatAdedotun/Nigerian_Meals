@@ -390,24 +390,23 @@ header.sticky .navigation li a:hover{
 }
 
 .copyrightText{
-    padding: 8px 40px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     text-align: center;
-    padding: 5px 5px;
+    background-color: #2b354f;
 }
 
 .copyrightText a{
     text-decoration: none;
-    color: #000;
+    color: #1abc9c;
+    font-size: 1.2rem;
 }
 
 .copyrightText p{
-    color: #912323;
+    color: #fff;
     font-size: 1em;
     font-weight: 300;
 }
 
 .section-padding{
-    padding-bottom: 1.5em;
-    padding-top: 1em;
+    padding: 1rem 0;
 }
